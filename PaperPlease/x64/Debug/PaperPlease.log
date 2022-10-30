@@ -1,0 +1,6 @@
+﻿  PaperPlease.cpp
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\PaperPlease\PaperPlease\Persona.cpp(139,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  inputManager.cpp
+C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\PaperPlease\PaperPlease\Persona.cpp(139,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  PaperPlease.vcxproj -> C:\Users\alex_\OneDrive\Documents\ANDY\UNIVERSIDAD\2do SEMESTRE\POO\PaperPlease\x64\Debug\PaperPlease.exe
